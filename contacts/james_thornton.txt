@@ -1,0 +1,6 @@
+Name: James Thornton
+Title: Partner
+Company: Andreessen Horowitz (a16z)
+Email: james.thornton@example.com
+Expertise: Venture capital, enterprise SaaS, go-to-market strategy, fundraising, startup scaling
+Bio: Partner at a16z focused on enterprise software and infrastructure investments. Led deals in companies like Databricks, Figma, and several early-stage developer tools startups. Before VC, was VP of Sales at Salesforce where he built the mid-market sales organization from 50 to 400 people. Deeply understands SaaS metrics, sales-led vs product-led growth, and what separates Series A companies that scale from those that stall. Frequently co-invests and makes introductions across his network.

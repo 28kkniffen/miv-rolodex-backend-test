@@ -1,0 +1,6 @@
+Name: Sarah Chen
+Title: Director of Procurement
+Company: TSMC
+Email: sarah.chen@example.com
+Expertise: Semiconductor supply chain, vendor negotiations, chip manufacturing, wafer fabrication
+Bio: 15 years in semiconductor procurement at TSMC. Led supplier qualification programs for advanced 3nm and 5nm process nodes. Deep expertise in global chip supply chain logistics, cost optimization for high-volume manufacturing, and vendor risk assessment. Previously managed procurement for Intel's mobile chip division. Frequently advises early-stage hardware startups on manufacturing feasibility and supplier strategy.

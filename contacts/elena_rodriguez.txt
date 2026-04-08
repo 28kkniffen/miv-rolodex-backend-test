@@ -1,0 +1,6 @@
+Name: Dr. Elena Rodriguez
+Title: Principal Research Scientist
+Company: NVIDIA
+Email: elena.rodriguez@example.com
+Expertise: AI chip architecture, GPU design, deep learning hardware, neural network accelerators, computer architecture
+Bio: Research scientist at NVIDIA working on next-generation AI accelerator architectures. PhD in Computer Engineering from Stanford focused on hardware-software co-design for deep learning workloads. Published 30+ papers on neural network inference optimization and custom silicon design. Previously consulted for several AI chip startups on architecture validation and performance benchmarking. Can assess whether a new chip design has genuine technical merit or is vaporware.

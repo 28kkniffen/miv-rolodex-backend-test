@@ -1,0 +1,6 @@
+Name: Amanda Foster
+Title: CEO & Co-Founder
+Company: BioVenture Labs
+Email: amanda.foster@example.com
+Expertise: Biotech startups, drug discovery, life sciences venture capital, FDA regulatory, clinical trials
+Bio: Founded BioVenture Labs, a biotech accelerator that has launched 15 companies with $400M+ in total funding raised. PhD in Molecular Biology from MIT. Previously was a partner at a life sciences VC fund where she led investments in gene therapy and precision medicine. Deep expertise in FDA regulatory pathways, clinical trial design, and biotech company formation. Serves on the boards of three public biotech companies. Go-to person for evaluating life sciences startups and connecting founders with pharma partnerships.

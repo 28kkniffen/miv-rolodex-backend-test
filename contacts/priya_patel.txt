@@ -1,0 +1,6 @@
+Name: Priya Patel
+Title: Chief Marketing Officer
+Company: Activision Blizzard
+Email: priya.patel@example.com
+Expertise: In-game advertising, brand partnerships, digital marketing, gaming industry, audience monetization
+Bio: CMO leading brand partnerships and advertising strategy across Activision Blizzard's portfolio of games. Pioneered in-game advertising formats that generated $200M+ in incremental revenue without degrading player experience. Previously ran digital marketing for EA Sports and led ad platform partnerships at Google. Expert in the intersection of gaming, advertising technology, and audience engagement. Advises adtech startups on go-to-market strategies for the gaming vertical.

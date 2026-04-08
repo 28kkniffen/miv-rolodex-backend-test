@@ -1,0 +1,6 @@
+Name: Marcus Williams
+Title: VP of Engineering
+Company: Datadog
+Email: marcus.williams@example.com
+Expertise: Observability, log management, cloud infrastructure, SaaS architecture, DevOps
+Bio: Engineering leader at Datadog overseeing the log management and APM product lines. Built and scaled monitoring platforms serving thousands of enterprise customers. Prior to Datadog, was a founding engineer at a log analytics startup acquired by Splunk. Deep technical knowledge of time-series databases, distributed systems, and infrastructure monitoring. Understands the competitive landscape of observability tools and what differentiates winners from losers in the space.

@@ -1,0 +1,6 @@
+Name: David Kim
+Title: Head of Revenue
+Company: Sumo Logic
+Email: david.kim@example.com
+Expertise: Enterprise sales, log management, security analytics, sales strategy, B2B SaaS growth
+Bio: Leads all revenue functions at Sumo Logic including sales, customer success, and partnerships. Grew ARR from $80M to $250M over four years. Deep domain expertise in the log management and SIEM market — understands buyer personas, competitive positioning against Splunk and Elastic, and how to sell security and compliance use cases. Previously built the enterprise sales team at New Relic. Strong network of CISOs and IT leaders across Fortune 500 companies.

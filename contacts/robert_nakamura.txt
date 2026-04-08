@@ -1,0 +1,6 @@
+Name: Robert Nakamura
+Title: Senior Director of Product
+Company: Stripe
+Email: robert.nakamura@example.com
+Expertise: Fintech, payments infrastructure, product management, API design, developer platforms
+Bio: Product leader at Stripe responsible for the Connect and Treasury product lines. Built payment platforms processing $50B+ annually. Deep understanding of financial infrastructure, money movement, compliance requirements, and what makes fintech products succeed. Previously PM at Square and early product hire at Plaid. Advises fintech startups on product-market fit, pricing strategy, and navigating financial regulations. Strong opinions on API-first business models and platform economics.
